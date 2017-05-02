@@ -49,7 +49,7 @@ Happiness and joy come from <br/>correctly balancing three attitudes:
 
 * 4 weeks ago I was really challenged with <br/>"do it my way" syndrome
 * Why is it easier to tear down than to build up?
-* Pride an arrogance are often found <br/>behind someone's back
+* Pride and arrogance are often found <br/>behind someone's back
 
 ^ "it’s funny because i have to speak at this conference in 3 weeks about egolessness, and it seems like the last 2 weeks have been challenging for me in that area"
 ^ It’s easier just to vent and tear town your teammates behind their backs, but only gives you temporary happiness. very temporary
@@ -170,7 +170,7 @@ Is there kindness you can do for someone **today**?
 
 Imagine there's **no anger**
 Or **pride** or **ego** too
-People **caring** for each another
+People **caring** for each other
 Like **brother and sister** do.
 
 Imagine all the people
@@ -185,7 +185,7 @@ And the world will live as one.
 
 Imagine there's **no anger**
 Or **pride** or **ego** too
-People **caring** for each another
+People **caring** for each other
 Like **brother and sister** do.
 
 Imagine all the people
@@ -200,7 +200,7 @@ And the world will live as one.
 
 Imagine there's **no anger**
 Or **pride** or **ego** too
-People **caring** for each another
+People **caring** for each other
 Like **brother and sister** do.
 
 Imagine all the people
@@ -215,7 +215,7 @@ And the world will live as one.
 
 Imagine there's **no anger**
 Or **pride** or **ego** too
-People **caring** for each another
+People **caring** for each other
 Like **brother and sister** do.
 
 Imagine all the people
@@ -230,7 +230,7 @@ And the world will live as one.
 
 Imagine there's **no anger**
 Or **pride** or **ego** too
-People **caring** for each another
+People **caring** for each other
 Like **brother and sister** do.
 
 Imagine all the people
