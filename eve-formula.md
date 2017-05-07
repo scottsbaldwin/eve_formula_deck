@@ -9,24 +9,9 @@
 
 ---
 
-# Decade Pursuit of Happiness
-
-| Year | Event |
-| :---: | :--- |
-| 2007 | Large company waterfall |
-| 2008 | Sick of late night builds during dinner |
-| 2009 | Experimented with Scrum |
-| 2010 | Agile Coach |
-| 2014 | Chief Happiness Officer |
-| 2015 | The Happiness Poll |
-| 2016 | Culture fell apart |
-| 2017 | Starting over with EVE |
+![](img/happiness-poll.png)
 
 ---
-
-$$
-egolessness + vulnerability + empathy
-$$
 
 $$
 \frac{vulnerability * empathy}{ego}
@@ -34,23 +19,25 @@ $$
 
 ---
 
-![](img/slackline.jpg)
-# Balance 3 Key Attitudes
+![left](img/slackline.jpg)
+# Balance Attitudes Toward
 
-Happiness and joy come from <br/>correctly balancing three attitudes:
+* Self (egolessness)<br/><br/>
+* Others (empathy)<br/><br/>
+* Connections (vulnerability)
 
-* Toward self: _egolessness_
-* Toward connections: _vulnerability_
-* Toward others: _empathy_
+^Happiness and joy come from correctly balancing three attitudes
 
 ---
 
 ## Attitude toward self: Egolessness
 
-* 4 weeks ago I was really challenged with <br/>"do it my way" syndrome
-* Why is it easier to tear down than to build up?
-* Pride and arrogance are often found <br/>behind someone's back
+![right](img/demolition.jpg)
 
+* Why is it easier to tear down than to build up?<br/><br/>
+* Pride and arrogance are often found behind someone's back
+
+^ * 4 weeks ago I was really challenged with <br/>"do it my way" syndrome
 ^ "it’s funny because i have to speak at this conference in 3 weeks about egolessness, and it seems like the last 2 weeks have been challenging for me in that area"
 ^ It’s easier just to vent and tear town your teammates behind their backs, but only gives you temporary happiness. very temporary
 
@@ -60,16 +47,16 @@ Happiness and joy come from <br/>correctly balancing three attitudes:
 
 ---
 
-![](img/seeing.jpg)
+![](img/connection.jpg)
 ## Attitude toward connections: Vulnerability
 
 > "Treat [others] as if they were in serious trouble,<br/> and you will be right more than half the time."
 
 * Connections are why we're here
-* We must allow ourselves to really be seen
+* Allow ourselves to really be seen
 * Let go of who we think we should be,<br/> and be who we really are
-* Have the courage to be imperfect
 
+^ Have the courage to be imperfect
 ^ Eyring, https://www.lds.org/general-conference/2004/04/in-the-strength-of-the-lord?lang=eng
 ^ Brené Brown, Power of Vulnerability, https://www.ted.com/talks/brene_brown_on_vulnerability, June 2010, Houston, 29MM views
 ^* where do you feel like you really belong?
@@ -80,20 +67,26 @@ Happiness and joy come from <br/>correctly balancing three attitudes:
 
 ## Attitude toward connections: Vulnerability
 
-* Core of shame/fear, but also the birthplace of:<br/>joy, of creativity, of belonging, of love
-* We can't numb feelings selectively
-* If we numb sadness, we numb joy too!
-* Treat ourselves kindly, then treat others kindly
-* Believe: "I am enough"
+![left](img/numb.jpg)
+
+* Birthplace of<br/>joy, belonging, and love<br/><br/>
+* Numbing sadness numbs joy!<br/><br/>
+* Treat ourselves kindly then<br/>treat others kindly<br/><br/>
+
+^ Core of shame/fear, but also the birthplace of: joy, of creativity, of belonging, of love
+^ We can't numb feelings selectively
+^ Believe: "I am enough"
 
 ---
 
 ## Attitude toward others: Empathy
 
-* Perspective-taking
-* Staying out of judgment
-* Recognizing emotion in others
-* Empathy means feeling with people
+![right](img/empathy.jpg)
+
+* Perspective-taking<br/><br/>
+* Staying out of judgment<br/><br/>
+* Recognizing emotion in others<br/><br/>
+* Empathy means<br/>feeling _**with**_ people
 
 ^ Brené Brown, https://www.youtube.com/watch?v=1Evwgu369Jw
 
@@ -104,8 +97,9 @@ Happiness and joy come from <br/>correctly balancing three attitudes:
 
 * "I'm stuck, it's dark, I'm overwhelmed!"
 * Climb down with them and say, "Hey, I know what it's like down here and you're not alone."
-* Don't say, "Well, at least..."
-* Say, "I don't even know what to say right now, I'm just so glad you told me."
+* Or say, "I don't even know what to say right now, I'm just so glad you told me."
+* Do **NOT** say, "Well, at least..."
+
 
 ^* Sympathy says, "Ooh. It's bad down there."
 ^ Empathy requires me to reach deep inside and connect with something in myself that knows the feeling someone else is experiencing.
@@ -125,13 +119,13 @@ Happiness and joy come from <br/>correctly balancing three attitudes:
 
 ---
 
-![](img/tenderness.jpg)
+![right](img/tenderness.jpg)
 
-# Create a "revolution of tenderness"
+# A Revolution of Tenderness
 
-* Hope doesn't start with "us," it starts with one "you," then another "you," and another "you."
-* When it turns into "us" then we have a revolution.
-* "This is tenderness: <br/>being on the same level as the other."
+* Start with one you<br/> then another you<br/><br/>
+* Turns into us/revolution<br/><br/>
+* "This is tenderness: <br/>being on the same level<br/>as the other."
 
 ^ "The more powerful you are, the more your actions will have an impact on people, the more responsible you are to act humbly. If you don't, your power will ruin you, and you will ruin the other."
 ^ Pope Francis on tenderness, See http://www.npr.org/sections/thetwo-way/2017/04/26/525699847/in-surprise-ted-talk-pope-francis-asks-the-powerful-for-revolution-of-tenderness
@@ -139,13 +133,15 @@ Happiness and joy come from <br/>correctly balancing three attitudes:
 
 ---
 
-#**Kind Ops**
+#**\#KindOps**
 
-Is there kindness you can do for someone **today**?
+![left](img/thinking-of-you.jpg)
 
-* Send that note to a friend you’ve been thinking of
-* Give your child a hug, give your parents a hug
-* Say "I love you" more
+Is there kindness you can do for someone **today**?<br/><br/>
+
+* Send that note
+* Give someone a hug
+* Say "I love you"
 * Ask the homeless person their name, lift them up
 
 ^Screensweeper
@@ -168,6 +164,25 @@ Is there kindness you can do for someone **today**?
 
 ---
 
+![](img/brother-and-sister.jpg)
+
+Imagine there's **no anger**
+Or **pride** or **ego** too
+People **caring** for each other
+Like **brother and sister** do.
+
+Imagine all the people
+Living life in peace (yoo-hoo-oo-oo)
+
+You may say I'm a dreamer.
+But, I'm not the only one.
+I hope some day you'll join us
+And the world will live as one.
+
+---
+
+![](img/brother-and-sister.jpg)
+
 Imagine there's **no anger**
 Or **pride** or **ego** too
 People **caring** for each other
@@ -198,20 +213,7 @@ And the world will live as one.
 
 ---
 
-Imagine there's **no anger**
-Or **pride** or **ego** too
-People **caring** for each other
-Like **brother and sister** do.
-
-Imagine all the people
-Living life in peace (yoo-hoo-oo-oo)
-
-You may say I'm a dreamer.
-But, I'm not the only one.
-I hope some day you'll join us
-And the world will live as one.
-
----
+![](img/worldpeaceforhumans.jpg)
 
 Imagine there's **no anger**
 Or **pride** or **ego** too
@@ -227,6 +229,8 @@ I hope some day you'll join us
 And the world will live as one.
 
 ---
+
+![](img/worldpeaceforhumans.jpg)
 
 Imagine there's **no anger**
 Or **pride** or **ego** too
@@ -252,4 +256,4 @@ And the world will live as one.
 
 
 ### @scottsbaldwin
-#### Chief Technology Officer, SeniorLeaf
+#### Chief Vulnerability Officer, SeniorLeaf
